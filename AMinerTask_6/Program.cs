@@ -35,6 +35,7 @@ namespace AMinerTask_6
             {
                 Console.WriteLine($"{entry.Key} -> {entry.Value}");
             }
+            Console.WriteLine();
 
         }
     }
