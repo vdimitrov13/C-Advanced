@@ -1,0 +1,6 @@
+D:\projects\SetsAndDictionariesExercises\Fibonnaci_\bin\Debug\Fibonnaci_.exe.config
+D:\projects\SetsAndDictionariesExercises\Fibonnaci_\bin\Debug\Fibonnaci_.exe
+D:\projects\SetsAndDictionariesExercises\Fibonnaci_\bin\Debug\Fibonnaci_.pdb
+D:\projects\SetsAndDictionariesExercises\Fibonnaci_\obj\Debug\FibonnaciStack_9.csprojResolveAssemblyReference.cache
+D:\projects\SetsAndDictionariesExercises\Fibonnaci_\obj\Debug\Fibonnaci_.exe
+D:\projects\SetsAndDictionariesExercises\Fibonnaci_\obj\Debug\Fibonnaci_.pdb

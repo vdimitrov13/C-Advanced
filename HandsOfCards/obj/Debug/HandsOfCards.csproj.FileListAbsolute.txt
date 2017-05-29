@@ -1,0 +1,6 @@
+D:\projects\SetsAndDictionariesExercises\HandsOfCards\bin\Debug\HandsOfCards.exe.config
+D:\projects\SetsAndDictionariesExercises\HandsOfCards\bin\Debug\HandsOfCards.exe
+D:\projects\SetsAndDictionariesExercises\HandsOfCards\bin\Debug\HandsOfCards.pdb
+D:\projects\SetsAndDictionariesExercises\HandsOfCards\obj\Debug\HandsOfCards.csprojResolveAssemblyReference.cache
+D:\projects\SetsAndDictionariesExercises\HandsOfCards\obj\Debug\HandsOfCards.exe
+D:\projects\SetsAndDictionariesExercises\HandsOfCards\obj\Debug\HandsOfCards.pdb

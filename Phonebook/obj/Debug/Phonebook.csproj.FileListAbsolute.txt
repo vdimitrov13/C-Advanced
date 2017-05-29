@@ -1,0 +1,6 @@
+D:\projects\SetsAndDictionariesExercises\Phonebook\bin\Debug\Phonebook.exe.config
+D:\projects\SetsAndDictionariesExercises\Phonebook\bin\Debug\Phonebook.exe
+D:\projects\SetsAndDictionariesExercises\Phonebook\bin\Debug\Phonebook.pdb
+D:\projects\SetsAndDictionariesExercises\Phonebook\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+D:\projects\SetsAndDictionariesExercises\Phonebook\obj\Debug\Phonebook.exe
+D:\projects\SetsAndDictionariesExercises\Phonebook\obj\Debug\Phonebook.pdb

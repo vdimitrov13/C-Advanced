@@ -1,0 +1,6 @@
+D:\projects\SetsAndDictionariesExercises\SetsOfElements\bin\Debug\SetsOfElements.exe.config
+D:\projects\SetsAndDictionariesExercises\SetsOfElements\bin\Debug\SetsOfElements.exe
+D:\projects\SetsAndDictionariesExercises\SetsOfElements\bin\Debug\SetsOfElements.pdb
+D:\projects\SetsAndDictionariesExercises\SetsOfElements\obj\Debug\SetsOfElements.csprojResolveAssemblyReference.cache
+D:\projects\SetsAndDictionariesExercises\SetsOfElements\obj\Debug\SetsOfElements.exe
+D:\projects\SetsAndDictionariesExercises\SetsOfElements\obj\Debug\SetsOfElements.pdb

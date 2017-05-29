@@ -1,0 +1,6 @@
+D:\projects\SetsAndDictionariesExercises\Srbsko\bin\Debug\Srbsko.exe.config
+D:\projects\SetsAndDictionariesExercises\Srbsko\bin\Debug\Srbsko.exe
+D:\projects\SetsAndDictionariesExercises\Srbsko\bin\Debug\Srbsko.pdb
+D:\projects\SetsAndDictionariesExercises\Srbsko\obj\Debug\Srbsko.csprojResolveAssemblyReference.cache
+D:\projects\SetsAndDictionariesExercises\Srbsko\obj\Debug\Srbsko.exe
+D:\projects\SetsAndDictionariesExercises\Srbsko\obj\Debug\Srbsko.pdb

@@ -1,0 +1,6 @@
+D:\projects\SetsAndDictionariesExercises\FixEmails_7\bin\Debug\FixEmails_7.exe.config
+D:\projects\SetsAndDictionariesExercises\FixEmails_7\bin\Debug\FixEmails_7.exe
+D:\projects\SetsAndDictionariesExercises\FixEmails_7\bin\Debug\FixEmails_7.pdb
+D:\projects\SetsAndDictionariesExercises\FixEmails_7\obj\Debug\FixEmails_7.csprojResolveAssemblyReference.cache
+D:\projects\SetsAndDictionariesExercises\FixEmails_7\obj\Debug\FixEmails_7.exe
+D:\projects\SetsAndDictionariesExercises\FixEmails_7\obj\Debug\FixEmails_7.pdb

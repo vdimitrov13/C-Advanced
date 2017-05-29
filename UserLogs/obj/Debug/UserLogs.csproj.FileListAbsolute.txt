@@ -1,0 +1,6 @@
+D:\projects\SetsAndDictionariesExercises\UserLogs\bin\Debug\UserLogs.exe.config
+D:\projects\SetsAndDictionariesExercises\UserLogs\bin\Debug\UserLogs.exe
+D:\projects\SetsAndDictionariesExercises\UserLogs\bin\Debug\UserLogs.pdb
+D:\projects\SetsAndDictionariesExercises\UserLogs\obj\Debug\UserLogs.csprojResolveAssemblyReference.cache
+D:\projects\SetsAndDictionariesExercises\UserLogs\obj\Debug\UserLogs.exe
+D:\projects\SetsAndDictionariesExercises\UserLogs\obj\Debug\UserLogs.pdb

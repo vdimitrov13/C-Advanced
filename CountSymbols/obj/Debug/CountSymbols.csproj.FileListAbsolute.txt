@@ -1,0 +1,6 @@
+D:\projects\SetsAndDictionariesExercises\CountSymbols\bin\Debug\CountSymbols.exe.config
+D:\projects\SetsAndDictionariesExercises\CountSymbols\bin\Debug\CountSymbols.exe
+D:\projects\SetsAndDictionariesExercises\CountSymbols\bin\Debug\CountSymbols.pdb
+D:\projects\SetsAndDictionariesExercises\CountSymbols\obj\Debug\CountSymbols.exe
+D:\projects\SetsAndDictionariesExercises\CountSymbols\obj\Debug\CountSymbols.pdb
+D:\projects\SetsAndDictionariesExercises\CountSymbols\obj\Debug\CountSymbols.csprojResolveAssemblyReference.cache

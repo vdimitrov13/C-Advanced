@@ -1,0 +1,6 @@
+D:\projects\SetsAndDictionariesExercises\DragonArmy\bin\Debug\DragonArmy.exe.config
+D:\projects\SetsAndDictionariesExercises\DragonArmy\bin\Debug\DragonArmy.exe
+D:\projects\SetsAndDictionariesExercises\DragonArmy\bin\Debug\DragonArmy.pdb
+D:\projects\SetsAndDictionariesExercises\DragonArmy\obj\Debug\DragonArmy.csprojResolveAssemblyReference.cache
+D:\projects\SetsAndDictionariesExercises\DragonArmy\obj\Debug\DragonArmy.exe
+D:\projects\SetsAndDictionariesExercises\DragonArmy\obj\Debug\DragonArmy.pdb

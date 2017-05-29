@@ -1,0 +1,5 @@
+D:\projects\SetsAndDictionariesExercises\PeriodicTable\bin\Debug\PeriodicTable.exe.config
+D:\projects\SetsAndDictionariesExercises\PeriodicTable\bin\Debug\PeriodicTable.exe
+D:\projects\SetsAndDictionariesExercises\PeriodicTable\bin\Debug\PeriodicTable.pdb
+D:\projects\SetsAndDictionariesExercises\PeriodicTable\obj\Debug\PeriodicTable.exe
+D:\projects\SetsAndDictionariesExercises\PeriodicTable\obj\Debug\PeriodicTable.pdb
